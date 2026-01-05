@@ -52,7 +52,7 @@ This project focuses on **Memory Management** and **Physics Stability**.
 
 ## 🚀 How to Play (Installation)
 
-1.  **Clone this repo**: `git clone https://github.com/YOUR_USERNAME/Unity-Cricket-Bowling-System.git`
+1.  **Clone this repo**: `git clone https://github.com/Sagniksynk/Cricket-Bowling-System.git`
 2.  **Open in Unity**:
     * Launch Unity Hub.
     * Add the project folder.
